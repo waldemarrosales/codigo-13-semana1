@@ -21,3 +21,7 @@ cd semana1 => para ingresar a la carpeta
 git add => sirve para poder agregar los cambios en la memoiral local git
 
 git add. --> si uno quiere agregar todos los archivos a la memoria local puede usar "git add."
+
+git commit -m "comentario del cambio"
+
+git log 
