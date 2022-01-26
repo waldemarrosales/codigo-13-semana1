@@ -1,0 +1,23 @@
+git config --list
+
+git config --global user.name "waldemarrosales"
+
+git config --global user.email "waldemar163@gmail.com"
+
+git init
+// es el comando para iniciar un proyecto con GIT esto solo se hace la primera que iniciemos el proyecto, esto va a crear una carpeta oculta llamada .git
+
+master -main => es la rama principal de trabajo
+
+ls -a => muestra la carpeta oculta del git
+
+ll -a => muestra las carpetas
+
+mkdir => comando para crear carpeta
+
+mkdir semana1 
+cd semana1 => para ingresar a la carpeta
+
+git add => sirve para poder agregar los cambios en la memoiral local git
+
+git add. --> si uno quiere agregar todos los archivos a la memoria local puede usar "git add."
