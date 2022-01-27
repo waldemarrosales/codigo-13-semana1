@@ -30,3 +30,8 @@ git commit -m "comentario"
 git push origin main
 ```
 - Sirve para poder subir los cambios a nuestro repositorio en la nube, en este caso github
+
+```
+git pull origin main
+```
+- Sirve para descargar un archivo creado en mi repositorio a mi pc
