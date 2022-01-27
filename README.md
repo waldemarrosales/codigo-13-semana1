@@ -46,3 +46,8 @@ git checkout -b nombre_del_branch
 git branch
 ```
 - Sirve para listar las ramas
+
+```
+git push origin  develop
+```
+- Una vez creada la rama subimos la rama al github
