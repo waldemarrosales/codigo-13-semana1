@@ -57,3 +57,9 @@ git checkout nombre_del_branch
 ```
 - Sirve para moverme entre ramas
 - :eye: Si el checkout no tiene -b solo es para moverse entre ramas
+
+
+```
+git remote -v
+```
+- :eye: Sirve para ver la ubicacion de tu repositorio en la nube.... :eye:
