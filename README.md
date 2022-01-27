@@ -34,4 +34,4 @@ git push origin main
 ```
 git pull origin main
 ```
-- Sirve para descargar un archivo creado en mi repositorio a mi pc
+- Sirve para descargar los cambios de nuestro repositorio en la nube, en este caso github
