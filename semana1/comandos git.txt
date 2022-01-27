@@ -25,3 +25,13 @@ git add. --> si uno quiere agregar todos los archivos a la memoria local puede u
 git commit -m "comentario del cambio"
 
 git log 
+
+git remote add origin https://github.com/waldemarrosales/codigo-13-semana1.git
+
+git push origin main
+
+--------------------------
+agregamos nuevo archivo
+git add .
+git commit -m "comentario"
+git push origin main
