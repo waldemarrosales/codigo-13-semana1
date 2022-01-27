@@ -51,3 +51,8 @@ git branch
 git push origin  develop
 ```
 - Una vez creada la rama subimos la rama al github
+
+```
+git checkout nombre_del_branch
+```
+- Sirve para moverme entre ramas
