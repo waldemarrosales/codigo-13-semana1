@@ -35,3 +35,14 @@ git push origin main
 git pull origin main
 ```
 - Sirve para descargar los cambios de nuestro repositorio en la nube, en este caso github
+
+#Ramas
+
+```
+git checkout -b nombre_del_branch
+```
+- Sirve para crear una nueva rama
+```
+git branch
+```
+- Sirve para listar las ramas
